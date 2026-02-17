@@ -81,7 +81,7 @@ python --version  # Requires Python 3.8 or higher
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR-USERNAME/stock-prediction-nse.git
+git clone https://github.com/Abu-249607/stock-prediction-nse.git
 cd stock-prediction-nse
 ```
 
