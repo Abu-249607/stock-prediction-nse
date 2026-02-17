@@ -223,7 +223,7 @@ This project was developed during my Master's program to explore machine learnin
 
 ## Contact
 
-**Abu[Abhishek Subramani]**
+**Abu (Abhishek Subramani)**
 - Email: abhishek.subramani@su.suffolk.edu
 - LinkedIn: https://www.linkedin.com/in/abhisheksubramani/
 - GitHub: https://github.com/Abu-249607
