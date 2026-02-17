@@ -223,12 +223,12 @@ This project was developed during my Master's program to explore machine learnin
 
 ## Contact
 
-**Abu**
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: [Your GitHub Profile]
+**Abu[Abhishek Subramani]**
+- Email: abhishek.subramani@su.suffolk.edu
+- LinkedIn: https://www.linkedin.com/in/abhisheksubramani/
+- GitHub: https://github.com/Abu-249607
 
-Project Link: [https://github.com/YOUR-USERNAME/stock-prediction-nse](https://github.com/YOUR-USERNAME/stock-prediction-nse)
+Project Link: [https://github.com/Abu-249607/stock-prediction-nse](https://github.com/Abu-249607/stock-prediction-nse)
 
 ## Acknowledgments
 
@@ -243,3 +243,4 @@ MIT License - see LICENSE file for details
 ## Disclaimer
 
 This project is for educational and research purposes only. Stock market prediction is inherently uncertain, and past performance does not guarantee future results. These models should NOT be used as the sole basis for investment decisions. Transaction costs, slippage, and market impact significantly affect real-world profitability. Always consult qualified financial advisors and conduct thorough due diligence before making any investment. The author assumes no liability for financial losses resulting from use of these models.
+
